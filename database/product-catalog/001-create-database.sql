@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS peach_ai;
+USE peach_ai;
